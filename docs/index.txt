@@ -12,6 +12,9 @@ Welcome to uvoauth's documentation!
 
 An oauth client for :py:mod:`uvhttp`.
 
+.. autoclass:: uvoauth.uvoauth.Oauth
+   :members:
+
 Indices and tables
 ==================
 
