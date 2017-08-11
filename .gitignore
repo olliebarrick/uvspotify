@@ -1,0 +1,10 @@
+*.egg-info
+__pycache__
+*.swp
+*.pyc
+.coverage
+build/
+.uvoauth
+coverage.xml
+dist
+docs/_build
