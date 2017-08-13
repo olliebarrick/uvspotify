@@ -5,7 +5,7 @@ requirements = os.path.join(os.path.dirname(__file__), 'requirements.txt')
 
 setup(
     name='uvspotify',
-    version='0.1',
+    version='0.2',
     description='Spotify client for uvhttp',
     url='https://github.com/justinbarrick/uvspotify',
     packages=['uvspotify'],
