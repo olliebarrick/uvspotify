@@ -4,10 +4,10 @@ import os
 requirements = os.path.join(os.path.dirname(__file__), 'requirements.txt')
 
 setup(
-    name='uvoauth',
+    name='uvspotify',
     version='0.1',
-    description='Oauth client for uvhttp',
-    url='https://github.com/justinbarrick/uvoauth',
-    packages=['uvoauth'],
+    description='Spotify client for uvhttp',
+    url='https://github.com/justinbarrick/uvspotify',
+    packages=['uvspotify'],
     install_requires=[ r.rstrip() for r in open(requirements).readlines() ]
 )

@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = uvoauth
+SPHINXPROJ    = uvspotify
 SOURCEDIR     = .
 BUILDDIR      = _build
 

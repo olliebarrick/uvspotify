@@ -1,3 +1,3 @@
-An oauth client for [uvhttp](https://github.com/justinbarrick/uvhttp).
+An spotify client for [uvhttp](https://github.com/justinbarrick/uvhttp).
 
-Read the [documentation](https://readthedocs.org/projects/uvoauth).
+Read the [documentation](https://uvspotify.readthedocs.io/en/latest).

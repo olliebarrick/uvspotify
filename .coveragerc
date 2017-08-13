@@ -1,2 +1,2 @@
 [run]
-include = uvoauth/*.py
+include = uvspotify/*.py

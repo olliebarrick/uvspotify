@@ -4,7 +4,7 @@ __pycache__
 *.pyc
 .coverage
 build/
-.uvoauth
+.uvspotify
 coverage.xml
 dist
 docs/_build

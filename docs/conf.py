@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# uvoauth documentation build configuration file, created by
+# uvspotify documentation build configuration file, created by
 # sphinx-quickstart on Fri Aug 11 03:57:09 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -46,7 +46,7 @@ source_suffix = '.txt'
 master_doc = 'index'
 
 # General information about the project.
-project = 'uvoauth'
+project = 'uvspotify'
 copyright = '2017, Justin Barrick'
 author = 'Justin Barrick'
 
@@ -115,7 +115,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'uvoauthdoc'
+htmlhelp_basename = 'uvspotifydoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -142,7 +142,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'uvoauth.tex', 'uvoauth Documentation',
+    (master_doc, 'uvspotify.tex', 'uvspotify Documentation',
      'Justin Barrick', 'manual'),
 ]
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'uvoauth', 'uvoauth Documentation',
+    (master_doc, 'uvspotify', 'uvspotify Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'uvoauth', 'uvoauth Documentation',
-     author, 'uvoauth', 'One line description of project.',
+    (master_doc, 'uvspotify', 'uvspotify Documentation',
+     author, 'uvspotify', 'One line description of project.',
      'Miscellaneous'),
 ]
 
