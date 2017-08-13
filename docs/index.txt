@@ -1,5 +1,5 @@
 Welcome to uvspotify's documentation!
-===================================
+=====================================
 
 .. toctree::
    :maxdepth: 2
